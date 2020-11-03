@@ -13,8 +13,7 @@
         "@vue/cli-plugin-eslint": {
             "config": "standard",
             "lintOn": [
-                "save",
-                "commit"
+                "save"
             ]
         },
     },
